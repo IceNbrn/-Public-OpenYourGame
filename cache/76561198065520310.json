@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198065520310",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "IceN <#GOSK>",
+				"lastlogoff": 1489069073,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/iceberggamer/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/57/57b7f298768736e236bf44d119f952f5c4260495.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/57/57b7f298768736e236bf44d119f952f5c4260495_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/57/57b7f298768736e236bf44d119f952f5c4260495_full.jpg",
+				"personastate": 0,
+				"realname": "Iceberggamer",
+				"primaryclanid": "103582791437881969",
+				"timecreated": 1339953210,
+				"personastateflags": 0,
+				"loccountrycode": "PT"
+			}
+		]
+		
+	}
+}
